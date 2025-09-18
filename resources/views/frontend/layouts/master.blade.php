@@ -13,7 +13,7 @@
     <div class="gradient-background d-flex justify-content-center align-items-center vh-100">
 
         <div class="position-absolute top-0 start-0 m-3">
-            <button class="btn btn-back"><i class="fa-solid fa-arrow-left"></i> <span>BACK</span></button>
+            <a href="https://www.kifayatpublishers.com" class="btn btn-back"><i class="fa-solid fa-arrow-left"></i> <span>BACK</span></a>
         </div>
 
         @yield('content')
