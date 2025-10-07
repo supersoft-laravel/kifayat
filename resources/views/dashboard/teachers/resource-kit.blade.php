@@ -497,13 +497,6 @@
                     </div>
                 </div>
             </a>
-        </div>
-
-        <!-- Dhanak Series Special Edition Books -->
-        <div class="item-title mt-5">
-            <span>Dhanak Series Special Edition</span>
-        </div>
-        <div class="boxes mt-5">
             <a href="{{ asset('assets/ebooks/urdu-dhanak/Dhanak-Urdu-Jamni') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/dhanak-urdu-jamni-6.jpg') }}" alt="book">
                 <div class="box-title">
@@ -540,6 +533,14 @@
                     </div>
                 </div>
             </a>
+        </div>
+
+        <!-- Dhanak Series Special Edition Books -->
+        <div class="item-title mt-5">
+            <span>Dhanak Series Special Edition</span>
+        </div>
+        <div class="boxes mt-5">
+            <p>No File Available</p>
         </div>
 
         <!-- Islamiat (Mera Piyara Deen Islam) Books -->
