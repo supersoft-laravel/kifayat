@@ -40,7 +40,7 @@
             <a href="{{ asset('assets/ebooks/english/MBS-Sr-Infant-Teaching-Guides') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mbs-2.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">MBS Jr. Infant <br> Teaching Guide</span>
+                    <span class="title">MBS Sr. Infant <br> Teaching Guide</span>
                     <div class="vertical-bottom">
                         <span class="badge english">English</span>
                         <div class="mute-text">
@@ -52,7 +52,7 @@
             <a href="{{ asset('assets/ebooks/english/My-book-of-Rhymes') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mbs-3.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">MBS Jr. Infant <br> Teaching Guide</span>
+                    <span class="title">My Book of Rhymes <br> Teaching Guide</span>
                     <div class="vertical-bottom">
                         <span class="badge english">English</span>
                         <div class="mute-text">
