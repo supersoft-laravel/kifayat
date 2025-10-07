@@ -543,15 +543,15 @@
             <p>No File Available</p>
         </div>
 
-        <!-- Islamiat (Mera Piyara Deen Islam) Books -->
+        <!-- Islamiat (Mera Pyara Deen Islam) Books -->
         <div class="item-title mt-5">
-            <span>Islamiat (Mera Piyara Deen Islam)</span>
+            <span>Islamiat (Mera Pyara Deen Islam)</span>
         </div>
         <div class="boxes mt-5">
             <a href="{{ asset('assets/ebooks/islamiyat/Islamiat-Class-3-TG') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mera-piyara-deen-e-islam-class-3.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">Mera Piyara Deen-e-Islam <br> Class 3</span>
+                    <span class="title">Mera Pyara Deen Islam <br> Class 3</span>
                     <div class="vertical-bottom">
                         <span class="badge islamiat">Islamiat</span>
                         <div class="mute-text">
@@ -563,7 +563,7 @@
             <a href="{{ asset('assets/ebooks/islamiyat/Islamiat-Class-4-TG') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mera-piyara-deen-e-islam-class-4.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">Mera Piyara Deen-e-Islam <br> Class 4</span>
+                    <span class="title">Mera Pyara Deen Islam <br> Class 4</span>
                     <div class="vertical-bottom">
                         <span class="badge islamiat">Islamiat</span>
                         <div class="mute-text">
@@ -575,7 +575,7 @@
             <a href="{{ asset('assets/ebooks/islamiyat/Islamiat-Class-5-TG') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mera-piyara-deen-e-islam-class-5.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">Mera Piyara Deen-e-Islam <br> Class 5</span>
+                    <span class="title">Mera Pyara Deen Islam <br> Class 5</span>
                     <div class="vertical-bottom">
                         <span class="badge islamiat">Islamiat</span>
                         <div class="mute-text">
@@ -587,7 +587,7 @@
             <a href="{{ asset('assets/ebooks/islamiyat/Islamiat-Class-6-TG') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mera-piyara-deen-e-islam-class-6.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">Mera Piyara Deen-e-Islam <br> Class 6</span>
+                    <span class="title">Mera Pyara Deen Islam <br> Class 6</span>
                     <div class="vertical-bottom">
                         <span class="badge islamiat">Islamiat</span>
                         <div class="mute-text">
@@ -599,7 +599,7 @@
             <a href="{{ asset('assets/ebooks/islamiyat/Islamiat-Class-7-TG') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mera-piyara-deen-e-islam-class-7.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">Mera Piyara Deen-e-Islam <br> Class 7</span>
+                    <span class="title">Mera Pyara Deen Islam <br> Class 7</span>
                     <div class="vertical-bottom">
                         <span class="badge islamiat">Islamiat</span>
                         <div class="mute-text">
@@ -611,7 +611,7 @@
             <a href="{{ asset('assets/ebooks/islamiyat/Islamiat-Class-8-TG') }}" target="_blank" class="items-box">
                 <img height="80px" src="{{ asset('assets/images/books/mera-piyara-deen-e-islam-class-8.jpg') }}" alt="book">
                 <div class="box-title">
-                    <span class="title">Mera Piyara Deen-e-Islam <br> Class 8</span>
+                    <span class="title">Mera Pyara Deen Islam <br> Class 8</span>
                     <div class="vertical-bottom">
                         <span class="badge islamiat">Islamiat</span>
                         <div class="mute-text">
