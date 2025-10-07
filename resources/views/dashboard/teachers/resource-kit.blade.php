@@ -547,7 +547,7 @@
                     <div class="vertical-bottom">
                         <span class="badge urdu">Urdu</span>
                         <div class="mute-text">
-                            <span>PDF • 94 pages</span>
+                            <span>PDF • 90 pages</span>
                         </div>
                     </div>
                 </div>
@@ -559,7 +559,7 @@
                     <div class="vertical-bottom">
                         <span class="badge urdu">Urdu</span>
                         <div class="mute-text">
-                            <span>PDF • 119 pages</span>
+                            <span>PDF • 137 pages</span>
                         </div>
                     </div>
                 </div>
@@ -571,7 +571,7 @@
                     <div class="vertical-bottom">
                         <span class="badge urdu">Urdu</span>
                         <div class="mute-text">
-                            <span>PDF • 108 pages</span>
+                            <span>PDF • 114 pages</span>
                         </div>
                     </div>
                 </div>
