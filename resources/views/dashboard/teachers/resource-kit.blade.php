@@ -540,7 +540,42 @@
             <span>Dhanak Series Special Edition</span>
         </div>
         <div class="boxes mt-5">
-            <p>No File Available</p>
+            <a href="{{ asset('assets/ebooks/urdu-dhanak-special/Dhanak-Urdu-Jamni-6') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/dhanak-special-urdu-jamni-6.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Dhanak Urdu Jamni <br> Class 6 TG</span>
+                    <div class="vertical-bottom">
+                        <span class="badge urdu">Urdu</span>
+                        <div class="mute-text">
+                            <span>PDF • 94 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="{{ asset('assets/ebooks/urdu-dhanak-special/Dhanak-Urdu-Unabi-Class-7') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/dhanak-special-urdu-unabi-7.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Dhanak Urdu Unabi <br> Class 7 TG</span>
+                    <div class="vertical-bottom">
+                        <span class="badge urdu">Urdu</span>
+                        <div class="mute-text">
+                            <span>PDF • 119 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="{{ asset('assets/ebooks/urdu-dhanak-special/Dhanak-Urdu-Safaid-Class-8') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/dhanak-special-urdu-safaid-8.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Dhanak Urdu Safaid <br> Class 8 TG</span>
+                    <div class="vertical-bottom">
+                        <span class="badge urdu">Urdu</span>
+                        <div class="mute-text">
+                            <span>PDF • 108 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
         </div>
 
         <!-- Islamiat (Mera Pyara Deen Islam) Books -->
