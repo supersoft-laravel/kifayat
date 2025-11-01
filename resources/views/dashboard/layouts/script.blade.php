@@ -80,14 +80,33 @@
     });
 
     // Audio Modal function
+    // document.querySelectorAll('.audio-card-button').forEach(button => {
+    //     button.addEventListener('click', function() {
+    //         const audioSrc = this.closest('.audio-card').getAttribute('data-audio');
+    //         const modalAudio = document.getElementById('modalAudio');
+    //         modalAudio.src = audioSrc;
+    //         modalAudio.load();
+    //         const modal = new bootstrap.Modal(document.getElementById('audioModal'));
+    //         modal.show();
+    //     });
+    // });
     document.querySelectorAll('.audio-card-button').forEach(button => {
         button.addEventListener('click', function() {
             const audioSrc = this.closest('.audio-card').getAttribute('data-audio');
             const modalAudio = document.getElementById('modalAudio');
             modalAudio.src = audioSrc;
             modalAudio.load();
+
             const modal = new bootstrap.Modal(document.getElementById('audioModal'));
             modal.show();
+
+            // Modal close hone par audio ko stop karne ke liye listener add karein
+            const modalElement = document.getElementById('audioModal');
+            modalElement.addEventListener('hidden.bs.modal', function () {
+                modalAudio.pause();
+                modalAudio.currentTime = 0;
+            }, { once: true }); // once: true -> har show par ek hi listener lage
         });
     });
+
 </script>
