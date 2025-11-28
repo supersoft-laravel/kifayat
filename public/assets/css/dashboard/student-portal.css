@@ -90,6 +90,15 @@
     font-size: 18px;
 }
 
+.blue-box {
+    background: #DBEAFE;
+}
+
+.blue-box i {
+    color: #2563eb;
+    font-size: 18px;
+}
+
 .quick-access-text {
     margin-top: 14px;
     display: flex;
