@@ -68,6 +68,21 @@
                     </div>
                 </a>
             </div>
+            @if (Auth::user()->role == 2)
+                <div class="col-md-3">
+                    <a href="{{ route('student.animations') }}">
+                        <div class="card p-3">
+                            <div class="quick-access-box">
+                                <span class="me-2 fs-4 icon-box blue-box"><i class="fa-solid fa-film"></i></span>
+                                <div class="quick-access-text">
+                                    <p>Animations</p>
+                                    <small>Explore animated lessons</small>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            @endif
         </div>
 
         <!-- Recent Videos -->

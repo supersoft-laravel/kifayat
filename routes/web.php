@@ -49,6 +49,10 @@ Route::group(['middleware' => ['auth']], function () {
         Route::get('/', [StudentController::class, 'studentPortal'])->name('portal');
         Route::get('/videos', [StudentController::class, 'studentVideos'])->name('videos');
         Route::get('/audios', [StudentController::class, 'studentAudios'])->name('audios');
+        Route::get('/animations', [StudentController::class, 'studentAnimations'])->name('animations');
+        Route::get('/animations/{class}/{chapter}', [StudentController::class, 'chapterDetails'])->name('animations.chapter');
+        Route::get('/animations/preview', [StudentController::class, 'preview'])->name('animation.preview');
+
     });
 
     //Teacher Portal Routes
